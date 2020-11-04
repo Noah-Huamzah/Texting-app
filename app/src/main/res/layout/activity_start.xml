@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:background="@color/colorAccent"
+    android:layout_height="match_parent"
+    tools:context=".StartActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Texting App"
+        android:textColor="#fff"
+        android:layout_marginLeft="120dp"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="150dp"
+        android:id="@+id/login"
+        android:layout_marginLeft="125dp"
+        android:background="#0C0B0B"
+        android:text="Login"
+        android:textColor="#fff"
+        android:textSize="25sp"/>
+    <Button
+        android:id="@+id/register"
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="125dp"
+        android:background="#131010"
+        android:text="register"
+        android:textColor="#fff"
+        android:layout_marginTop="15dp"
+        android:textSize="25sp" />
+
+
+</LinearLayout>

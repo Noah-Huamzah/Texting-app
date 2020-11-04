@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311503368059",
+    "firebase_url": "https://texting-3282d.firebaseio.com",
+    "project_id": "texting-3282d",
+    "storage_bucket": "texting-3282d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311503368059:android:6b2ee5ec9e9b77cd1997de",
+        "android_client_info": {
+          "package_name": "com.example.texting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311503368059-f4vs9r7v6sgcouh1vut0grt7j3dg23gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK8Z2NjoK6hjC_3lBx2nX2W8j-tB8GMGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311503368059-f4vs9r7v6sgcouh1vut0grt7j3dg23gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
